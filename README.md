@@ -1,32 +1,33 @@
 <h1 align="center">Hi, I'm Asheesh Kumar 👋</h1>
 
 <p align="center">
-  <b>Full-Stack &amp; AI Engineer · Open-source contributor</b>
-</p>
-
-<p align="center">
-  I build full-stack and AI products — multilingual voice RAG, ML dashboards and graph-based agents —<br>
-  and send fixes upstream to the tools I use. Final-year B.Tech IT @ GCET.
-</p>
-
-<p align="center">
   <a href="https://asheesh7298.vercel.app">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/asheesh712/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://leetcode.com/u/KO5Pwip6Ln/">LeetCode</a> &nbsp;·&nbsp;
   <a href="mailto:asheeshkumarklg712@gmail.com">Email</a>
 </p>
 
----
+```json
+{
+  "role": "Full-Stack & AI Engineer",
+  "alsoKnownAs": "open-source contributor",
+  "builds": ["multilingual voice RAG", "ML dashboards", "graph-based agents"],
+  "contributesTo": ["Meshery", "PostHog", "e2e"],
+  "education": "B.Tech IT @ GCET '27",
+  "location": "Greater Noida, India",
+  "openTo": ["internships", "full-time roles"]
+}
+```
 
 ### 🧩 Open source
 
-**30 merged pull requests** to projects I use:
+Fixes and features I've contributed to projects I use:
 
-- **[Meshery](https://github.com/meshery/meshery)** (CNCF) — 22 merged · `mesheryctl` token &amp; redirect handling, server-side MeshSync and filter fixes, UI data/caching fixes, tests and docs
-- **[e2e](https://github.com/e2e-inc/e2e)** — 5 merged · a `toHaveRole` locator matcher and accessibility-tree fixes
-- **[PostHog](https://github.com/PostHog/posthog)** — 3 merged · feature-flag analytics, Celery queue routing, search
+- **[Meshery](https://github.com/meshery/meshery)** (CNCF) — `mesheryctl` token &amp; redirect handling, server-side MeshSync and filter fixes, UI data/caching fixes, tests and docs
+- **[e2e](https://github.com/e2e-inc/e2e)** — a `toHaveRole` locator matcher and accessibility-tree fixes
+- **[PostHog](https://github.com/PostHog/posthog)** — feature-flag analytics, Celery queue routing, search
 
-➡️ [See all my pull requests](https://github.com/search?q=author%3AAsheesh7298+type%3Apr+-user%3AAsheesh7298&type=pullrequests&s=created&o=desc)
+➡️ [See all my contributions](https://github.com/search?q=author%3AAsheesh7298+type%3Apr+-user%3AAsheesh7298&type=pullrequests&s=created&o=desc)
 
 ### 🚀 Featured projects
 
@@ -54,5 +55,5 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Asheesh7298&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Asheesh's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Asheesh7298&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=prs" alt="Asheesh's GitHub stats" />
 </p>
